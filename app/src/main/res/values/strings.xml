@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Popular Movies - Stage 1</string>
+    <string name="title_medium_detail">Medium Detail</string>
+    <string name="title_medium_list">Popular Movies - Stage 1</string>
+    <string name="media_poster">Media Poster</string>
+    <string name="media_popular">popular</string>
+    <string name="media_top_rated">top_rated</string>
+    <string name="medium_detail_template_text">Loading &#8230;</string>
+    <string name="medium_fragment_releasedt_header">Release date: </string>
+    <string name="medium_fragment_rating_header">Rating: </string>
+    <string name="media_density_185">w185/</string>
+    <string name="media_density_342">w342/</string>
+    <string name="media_density_500">w500/</string>
+    <string name="media_density_780">w780/</string>
+    <string name="medium_image_uri">https://image.tmdb.org/t/p/</string>
+    <string name="medium_tmdb_api">https://api.themoviedb.org/3/movie/</string>
+    <string name="media_network_connection">Please check you network connection</string>
+    <string name="sort_toggle">Top Rated</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="api_query">\?api_key=</string>
+    <string name="json_array_results">results</string>
+
+
+</resources>
