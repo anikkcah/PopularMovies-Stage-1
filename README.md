@@ -8,10 +8,10 @@ Below I have shown screenshots of my application.
 
 ## Main Screen:
 
-<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/detailsScreen.png">
+<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/detailsScreen.png" width="300" height="650">
 
 <img vspace="20">
 
 ## Details Screen:
 
-<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/detailsScreen.png">
+<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/detailsScreen.png" width="300" height="650">
