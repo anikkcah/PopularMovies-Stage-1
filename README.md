@@ -8,7 +8,7 @@ Below I have shown screenshots of my application.
 
 ## Main Screen:
 
-<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/mainScreen.png" width="300" height="600">
+<img src="https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/main_screen.png" width="300" height="600">
 
 <img vspace="20">
 
